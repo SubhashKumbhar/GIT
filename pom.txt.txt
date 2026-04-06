@@ -1,1 +1,3 @@
 this is pom file
+adding dependencies
+
